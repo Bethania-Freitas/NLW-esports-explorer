@@ -75,6 +75,14 @@ section p {
     color: #A1A1AA
 }
 
+section h1 {
+    color: #43e7ad ;
+}
+
+.principal {
+    text-align: center;
+}
+
 ul {
     display: flex;
     flex-wrap: wrap;
@@ -142,6 +150,10 @@ main section:nth-child(3) {
 
 main section:nth-child(4) {
     animation-delay: 1.2s;
+}
+
+main section:nth-child(5) {
+    animation-delay: 1.4s;
 }
 
 @keyframes fromBottom {
