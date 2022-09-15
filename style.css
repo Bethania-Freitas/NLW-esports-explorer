@@ -57,6 +57,14 @@ main {
     margin-top: 32px;
 }
 
+section h1 {
+    color: #43e7ad ;
+}
+
+.principal {
+    text-align: center;
+}
+
 section {
     color: aliceblue;
     background-image: linear-gradient(90deg, #9562FC 0%,#43e7ad 50%, #E2D45C 100% );
@@ -75,13 +83,7 @@ section p {
     color: #A1A1AA
 }
 
-section h1 {
-    color: #43e7ad ;
-}
 
-.principal {
-    text-align: center;
-}
 
 ul {
     display: flex;
