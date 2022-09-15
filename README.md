@@ -4,18 +4,35 @@
 
 # NLW - Rocketseat
 
-NLW é o maior evento online e gratuito de programação na prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível
-Durante uma semana tive acesso a uma metodologia eficiente para o seu aprendizado, uma comunidade com milhares de devs e uma experiência completa pra acelerar minha evolução como dev.
+NLW é o um evento online e gratuito de programação na prática desenvolvido pela Rocketseat.
+
+O projeto raiz era sobre games, mas fiz uma adaptação para tornar o projeto, num cartão pessoal de apresentação.
+
+<br>
+
+## 👉🏻 Deploy:  [Aqui](https://bethania-freitas.github.io/NLW-esports-explorer/)
 
 
-## Stack utilizada
+<br>
 
-**Front-end:** HTML e CSS 
+## 😲 Preview:
+<br>
+
+![Preview](./assets/screenshot.png)
+
+<br><br>
+
+## 💻 Tecnologias:
+
+- HTML  
+- CSS
+- Git e Github 
 
 
 
+<br>
 
-## Autores
+## 👧🏻  Autores:
 
-- [Bethânia Freitas 👧🏻](https://github.com/Bethania-Freitas)
+- [Bethânia Freitas](https://github.com/Bethania-Freitas)
 
